@@ -4,7 +4,8 @@ namespace Zoologico
 {
     public class AnimalNovo : Animal
     {
-        public AnimalNovo(string especie,double peso, string tipoAlimentacao):base(especie,peso)
+        public AnimalNovo(string especie,double peso, string tipoAlimentacao)
+            :base(especie,peso)
         {
             this.TipoAlimentacao = tipoAlimentacao;
         }
@@ -12,7 +13,8 @@ namespace Zoologico
 
         public void ExibirDados()
         {
-            Console.WriteLine($"Especide : "{this.Especie}"Peso : " {this.Peso} "Alimentação : "{this.TipoAlimentacao});
+            
+            Console.WriteLine($"Especide : {this.Especie} Peso : {this.Peso} Alimentação : {this.TipoAlimentacao}");
         }
     }
 }
