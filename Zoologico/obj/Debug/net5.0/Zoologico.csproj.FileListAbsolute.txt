@@ -1,0 +1,16 @@
+/home/nodis/Documentos/Estudo/POO-C-/Zoologico/obj/Debug/net5.0/Zoologico.csproj.AssemblyReference.cache
+/home/nodis/Documentos/Estudo/POO-C-/Zoologico/obj/Debug/net5.0/Zoologico.GeneratedMSBuildEditorConfig.editorconfig
+/home/nodis/Documentos/Estudo/POO-C-/Zoologico/obj/Debug/net5.0/Zoologico.AssemblyInfoInputs.cache
+/home/nodis/Documentos/Estudo/POO-C-/Zoologico/obj/Debug/net5.0/Zoologico.AssemblyInfo.cs
+/home/nodis/Documentos/Estudo/POO-C-/Zoologico/obj/Debug/net5.0/Zoologico.csproj.CoreCompileInputs.cache
+/home/nodis/Documentos/Estudo/POO-C-/Zoologico/bin/Debug/net5.0/Zoologico
+/home/nodis/Documentos/Estudo/POO-C-/Zoologico/bin/Debug/net5.0/Zoologico.deps.json
+/home/nodis/Documentos/Estudo/POO-C-/Zoologico/bin/Debug/net5.0/Zoologico.runtimeconfig.json
+/home/nodis/Documentos/Estudo/POO-C-/Zoologico/bin/Debug/net5.0/Zoologico.runtimeconfig.dev.json
+/home/nodis/Documentos/Estudo/POO-C-/Zoologico/bin/Debug/net5.0/Zoologico.dll
+/home/nodis/Documentos/Estudo/POO-C-/Zoologico/bin/Debug/net5.0/Zoologico.pdb
+/home/nodis/Documentos/Estudo/POO-C-/Zoologico/obj/Debug/net5.0/Zoologico.dll
+/home/nodis/Documentos/Estudo/POO-C-/Zoologico/obj/Debug/net5.0/refint/Zoologico.dll
+/home/nodis/Documentos/Estudo/POO-C-/Zoologico/obj/Debug/net5.0/Zoologico.pdb
+/home/nodis/Documentos/Estudo/POO-C-/Zoologico/obj/Debug/net5.0/Zoologico.genruntimeconfig.cache
+/home/nodis/Documentos/Estudo/POO-C-/Zoologico/obj/Debug/net5.0/ref/Zoologico.dll

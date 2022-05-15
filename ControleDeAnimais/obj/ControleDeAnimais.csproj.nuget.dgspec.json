@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/home/nodis/Documentos/Estudo/POO-C-/Zoologico/Zoologico.csproj": {}
+    "/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/ControleDeAnimais.csproj": {}
   },
   "projects": {
-    "/home/nodis/Documentos/Estudo/POO-C-/Zoologico/Zoologico.csproj": {
+    "/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/ControleDeAnimais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nodis/Documentos/Estudo/POO-C-/Zoologico/Zoologico.csproj",
-        "projectName": "Zoologico",
-        "projectPath": "/home/nodis/Documentos/Estudo/POO-C-/Zoologico/Zoologico.csproj",
+        "projectUniqueName": "/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/ControleDeAnimais.csproj",
+        "projectName": "ControleDeAnimais",
+        "projectPath": "/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/ControleDeAnimais.csproj",
         "packagesPath": "/home/nodis/.nuget/packages/",
-        "outputPath": "/home/nodis/Documentos/Estudo/POO-C-/Zoologico/obj/",
+        "outputPath": "/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nodis/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -47,20 +47,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[5.0.17, 5.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4tq8g06nE6B2wJaJJDSiXk3O4SqLGvh8OE4wqjBL+9D4kmSi2fM+o54KYY9dEoBQ6ZdKlP4BZehiOd99r4+NAQ==",
+  "dgSpecHash": "owQJ9nesnzfDPb9git9yZb1XKZoVPQo0xIGV9pM4s5bI6bFRbELbgGDWCZ9uwscPpWRpsTyIk46JDAqKjuuKzg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\João Marcelo\\Documents\\POO-C-\\Zoologico\\Zoologico.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/nodis/Documentos/Estudo/POO-C-/Zoologico/Zoologico.csproj",
+  "expectedPackageFiles": [
+    "/home/nodis/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/nodis/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/nodis/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.17/microsoft.netcore.app.host.linux-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
