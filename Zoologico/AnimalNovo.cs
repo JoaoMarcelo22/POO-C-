@@ -4,6 +4,10 @@ namespace Zoologico
 {
     public class AnimalNovo : Animal
     {
+        public AnimalNovo(): base()
+        {
+            this.TipoAlimentacao = ""; 
+        }
         public AnimalNovo(string especie,double peso, string tipoAlimentacao)
             :base(especie,peso)
         {
