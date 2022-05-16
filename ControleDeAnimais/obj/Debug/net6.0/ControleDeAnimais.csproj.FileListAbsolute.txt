@@ -1,0 +1,15 @@
+/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/bin/Debug/net6.0/ControleDeAnimais
+/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/bin/Debug/net6.0/ControleDeAnimais.deps.json
+/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/bin/Debug/net6.0/ControleDeAnimais.runtimeconfig.json
+/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/bin/Debug/net6.0/ControleDeAnimais.dll
+/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/bin/Debug/net6.0/ControleDeAnimais.pdb
+/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/obj/Debug/net6.0/ControleDeAnimais.csproj.AssemblyReference.cache
+/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/obj/Debug/net6.0/ControleDeAnimais.GeneratedMSBuildEditorConfig.editorconfig
+/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/obj/Debug/net6.0/ControleDeAnimais.AssemblyInfoInputs.cache
+/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/obj/Debug/net6.0/ControleDeAnimais.AssemblyInfo.cs
+/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/obj/Debug/net6.0/ControleDeAnimais.csproj.CoreCompileInputs.cache
+/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/obj/Debug/net6.0/ControleDeAnimais.dll
+/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/obj/Debug/net6.0/refint/ControleDeAnimais.dll
+/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/obj/Debug/net6.0/ControleDeAnimais.pdb
+/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/obj/Debug/net6.0/ControleDeAnimais.genruntimeconfig.cache
+/home/nodis/Documentos/Estudo/POO-C-/ControleDeAnimais/obj/Debug/net6.0/ref/ControleDeAnimais.dll
