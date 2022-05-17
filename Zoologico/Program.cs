@@ -29,6 +29,7 @@ namespace Zoologico
                 }
                 animais.Add(animal);
             }
+            Console.Clear();
             Console.WriteLine($"Total de animais : {animais}");
             Console.WriteLine($"Total de animais carnivoros : {CarnivoroQtd}");
             Console.WriteLine($"Total de animais herbivoro : {HerbivoroQtd}");
