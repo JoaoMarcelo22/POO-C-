@@ -12,6 +12,7 @@ namespace ControleDeAcesso
             this.Nome = nome;
             this.Idade = idade;
         }
+        private string nome;
         public string Nome{get;set;}
         public int Idade{get;set;}
     }

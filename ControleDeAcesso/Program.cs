@@ -20,11 +20,11 @@ namespace ControleDeAcesso
                 pessoa.Idade = Convert.ToInt32( Console.ReadLine());
                 Console.WriteLine("Sexo : ");
                 pessoa.Sexo = Console.ReadLine();
-                if(pessoa.Sexo == "Homem")
+                if(pessoa.Sexo == "homem")
                 {
                     QTDhomem++;
                 }
-                else if(pessoa.Sexo =="Mulher")
+                else if(pessoa.Sexo =="mulher")
                 {
                     QTDMulher++;
                 }

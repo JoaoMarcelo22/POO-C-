@@ -10,8 +10,12 @@ namespace ControleDeAcesso
         public NovaPessoa(string nome, int idade, string sexo) :base(nome,idade)
         {
             this.Sexo= sexo;
+        } 
+        private string sexo;
+        public string  Sexo {
+        get {return sexo;}
+        set {sexo = value.ToLower();}
         }
-        public string Sexo {get; set;}
 
         public void ExibirDados()
         {
