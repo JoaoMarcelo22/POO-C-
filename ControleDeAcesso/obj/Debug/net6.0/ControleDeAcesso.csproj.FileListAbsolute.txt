@@ -1,0 +1,15 @@
+C:\Users\João Marcelo\Documents\POO-C-\ControleDeAcesso\bin\Debug\net6.0\ControleDeAcesso.exe
+C:\Users\João Marcelo\Documents\POO-C-\ControleDeAcesso\bin\Debug\net6.0\ControleDeAcesso.deps.json
+C:\Users\João Marcelo\Documents\POO-C-\ControleDeAcesso\bin\Debug\net6.0\ControleDeAcesso.runtimeconfig.json
+C:\Users\João Marcelo\Documents\POO-C-\ControleDeAcesso\bin\Debug\net6.0\ControleDeAcesso.dll
+C:\Users\João Marcelo\Documents\POO-C-\ControleDeAcesso\bin\Debug\net6.0\ControleDeAcesso.pdb
+C:\Users\João Marcelo\Documents\POO-C-\ControleDeAcesso\obj\Debug\net6.0\ControleDeAcesso.csproj.AssemblyReference.cache
+C:\Users\João Marcelo\Documents\POO-C-\ControleDeAcesso\obj\Debug\net6.0\ControleDeAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Marcelo\Documents\POO-C-\ControleDeAcesso\obj\Debug\net6.0\ControleDeAcesso.AssemblyInfoInputs.cache
+C:\Users\João Marcelo\Documents\POO-C-\ControleDeAcesso\obj\Debug\net6.0\ControleDeAcesso.AssemblyInfo.cs
+C:\Users\João Marcelo\Documents\POO-C-\ControleDeAcesso\obj\Debug\net6.0\ControleDeAcesso.csproj.CoreCompileInputs.cache
+C:\Users\João Marcelo\Documents\POO-C-\ControleDeAcesso\obj\Debug\net6.0\ControleDeAcesso.dll
+C:\Users\João Marcelo\Documents\POO-C-\ControleDeAcesso\obj\Debug\net6.0\refint\ControleDeAcesso.dll
+C:\Users\João Marcelo\Documents\POO-C-\ControleDeAcesso\obj\Debug\net6.0\ControleDeAcesso.pdb
+C:\Users\João Marcelo\Documents\POO-C-\ControleDeAcesso\obj\Debug\net6.0\ControleDeAcesso.genruntimeconfig.cache
+C:\Users\João Marcelo\Documents\POO-C-\ControleDeAcesso\obj\Debug\net6.0\ref\ControleDeAcesso.dll

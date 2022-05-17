@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\João Marcelo\\Documents\\POO-C-\\ControleDeAcesso\\ControleDeAcesso.csproj": {}
+    "C:\\Users\\João Marcelo\\Documents\\POO-C-\\ControleDeAcesso\\ControleDeAcesso.csproj": {}
   },
   "projects": {
-    "c:\\Users\\João Marcelo\\Documents\\POO-C-\\ControleDeAcesso\\ControleDeAcesso.csproj": {
+    "C:\\Users\\João Marcelo\\Documents\\POO-C-\\ControleDeAcesso\\ControleDeAcesso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\João Marcelo\\Documents\\POO-C-\\ControleDeAcesso\\ControleDeAcesso.csproj",
+        "projectUniqueName": "C:\\Users\\João Marcelo\\Documents\\POO-C-\\ControleDeAcesso\\ControleDeAcesso.csproj",
         "projectName": "ControleDeAcesso",
-        "projectPath": "c:\\Users\\João Marcelo\\Documents\\POO-C-\\ControleDeAcesso\\ControleDeAcesso.csproj",
+        "projectPath": "C:\\Users\\João Marcelo\\Documents\\POO-C-\\ControleDeAcesso\\ControleDeAcesso.csproj",
         "packagesPath": "C:\\Users\\João Marcelo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\João Marcelo\\Documents\\POO-C-\\ControleDeAcesso\\obj\\",
+        "outputPath": "C:\\Users\\João Marcelo\\Documents\\POO-C-\\ControleDeAcesso\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\João Marcelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\João Marcelo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

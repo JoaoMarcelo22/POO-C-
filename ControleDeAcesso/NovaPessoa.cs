@@ -1,7 +1,7 @@
-using system;
+using System;
 namespace ControleDeAcesso
 {
-    public class NovaPessoa :Pessoa
+    public class NovaPessoa : Pessoa
     {
         public NovaPessoa(): base()
         {
@@ -14,7 +14,8 @@ namespace ControleDeAcesso
         public string Sexo {get; set;}
 
         public void ExibirDados()
-
-        Console.Writeline($"Nome : (this.Nome) ")
+        {
+            Console.WriteLine($"Nome : {this.Nome}, Idade : {this.Idade}, Sexo : {this.Sexo}");
+        }
     }
 }
