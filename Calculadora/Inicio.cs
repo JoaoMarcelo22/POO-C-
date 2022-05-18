@@ -27,7 +27,7 @@ namespace Calculadora
             {
              Console.Clear();
              Console.WriteLine("Digite a opção desejada: (°C) Celsius ; Farenheight(°F) ; Kelvin(°K) ");
-             Console.WriteLine("0 - Sair ; 1 - (°C) -> (°F) | 2 - (°C) ->  (°K)| 3  - (°F) - > (°C) | 4 - (°F) - > (°K) | 5 - (°K) - > (C°) | 6 - (°K) -> (°F)");
+             Console.WriteLine("0 - Sair ;\n 1 - (°C) - > (°F) |\n 2 - (°C) - > (°K) |\n 3 - (°F) - > (°C) |\n 4 - (°F) - > (°K) |\n 5 - (°K) - > (°C) |\n 6 - (°K) - > (°F) |");
 
             int.TryParse(Console.ReadLine(), out int opcao);
             switch(opcao){

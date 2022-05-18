@@ -1,0 +1,15 @@
+/home/nodis/Documentos/Estudo/POO-C-/Calculadora/bin/Debug/net6.0/Calculadora
+/home/nodis/Documentos/Estudo/POO-C-/Calculadora/bin/Debug/net6.0/Calculadora.deps.json
+/home/nodis/Documentos/Estudo/POO-C-/Calculadora/bin/Debug/net6.0/Calculadora.runtimeconfig.json
+/home/nodis/Documentos/Estudo/POO-C-/Calculadora/bin/Debug/net6.0/Calculadora.dll
+/home/nodis/Documentos/Estudo/POO-C-/Calculadora/bin/Debug/net6.0/Calculadora.pdb
+/home/nodis/Documentos/Estudo/POO-C-/Calculadora/obj/Debug/net6.0/Calculadora.csproj.AssemblyReference.cache
+/home/nodis/Documentos/Estudo/POO-C-/Calculadora/obj/Debug/net6.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/nodis/Documentos/Estudo/POO-C-/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfoInputs.cache
+/home/nodis/Documentos/Estudo/POO-C-/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfo.cs
+/home/nodis/Documentos/Estudo/POO-C-/Calculadora/obj/Debug/net6.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/nodis/Documentos/Estudo/POO-C-/Calculadora/obj/Debug/net6.0/Calculadora.dll
+/home/nodis/Documentos/Estudo/POO-C-/Calculadora/obj/Debug/net6.0/refint/Calculadora.dll
+/home/nodis/Documentos/Estudo/POO-C-/Calculadora/obj/Debug/net6.0/Calculadora.pdb
+/home/nodis/Documentos/Estudo/POO-C-/Calculadora/obj/Debug/net6.0/Calculadora.genruntimeconfig.cache
+/home/nodis/Documentos/Estudo/POO-C-/Calculadora/obj/Debug/net6.0/ref/Calculadora.dll
