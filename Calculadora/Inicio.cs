@@ -1,3 +1,4 @@
+using static Calculadora.Temperatura;
 using static Calculadora.Operacoes;
 using static Calculadora.Program;
 namespace Calculadora
@@ -8,7 +9,7 @@ namespace Calculadora
             {
              Console.Clear();
              Console.WriteLine("Digite a opção desejada: ");
-             Console.WriteLine("0 - Sair ; 1 - Somar ; 2 - Subtração ; 3 - Divisão ; 4 - Multiplicação ; 5 - Media");
+             Console.WriteLine("0 - Sair ; 1 - Somar ; 2 - Subtração ; 3 - Divisão ; 4 - Multiplicação ; 5 - Media ;  6 - Temperatura");
 
             int.TryParse(Console.ReadLine(), out int opcao);
             switch(opcao){
@@ -18,6 +19,25 @@ namespace Calculadora
             case 3 : Divisao(); break;
             case 4 : Multiplicacao();break;
             case 5 : Media1();break;
+            case 6 : MenuTemperatura();break;
+            default : Menu();break;
+            }
+        }
+        public static void MenuTemperatura()
+            {
+             Console.Clear();
+             Console.WriteLine("Digite a opção desejada: (°C) Celsius ; Farenheight(°F) ; Kelvin(°K) ");
+             Console.WriteLine("0 - Sair ; 1 - (°C) -> (°F) | 2 - (°C) ->  (°K)| 3  - (°F) - > (°C) | 4 - (°F) - > (°K) | 5 - (°K) - > (C°) | 6 - (°K) -> (°F)");
+
+            int.TryParse(Console.ReadLine(), out int opcao);
+            switch(opcao){
+            case 0 : System.Environment.Exit(0); break;
+            case 1 : CelsiusParaF();break;
+            case 2 : CelsiusParaK(); break;
+            case 3 : FarenheightParaC(); break;
+            case 4 : FarenheightParaK(); break;
+            case 5 : KelvinParaC(); break;
+            case 6 : KelvinParaF(); break;
             default : Menu();break;
             }
         }
