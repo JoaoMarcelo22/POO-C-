@@ -5,23 +5,55 @@ namespace Calculadora
 {
     public class Inicio
     {
+        public enum OpcoesMenu
+        {
+            Somar = 1,
+            Subtracao = 2,
+            Divisao = 3,
+            Multiplicacao = 4,
+            Media = 5,
+        }
         public static void Menu()
+        {
+            Console.Clear();
+            Console.WriteLine("Digite a opção desejada: ");
+            Console.WriteLine("1 - Calculadora | 2 - Temperatura");
+            var escolha = int.Parse(Console.ReadLine());
+            switch(escolha)
             {
-             Console.Clear();
-             Console.WriteLine("Digite a opção desejada: ");
-             Console.WriteLine("0 - Sair ; 1 - Somar ; 2 - Subtração ; 3 - Divisão ; 4 - Multiplicação ; 5 - Media ;  6 - Temperatura");
-
-            int.TryParse(Console.ReadLine(), out int opcao);
-            switch(opcao){
             case 0 : System.Environment.Exit(0); break;
-            case 1 : Soma();break;
-            case 2 : Subtracao(); break;
-            case 3 : Divisao(); break;
-            case 4 : Multiplicacao();break;
-            case 5 : Media1();break;
-            case 6 : MenuTemperatura();break;
+            case 1 : MenuCalculadora();break;
+            case 2 : MenuTemperatura();break;
             default : Menu();break;
+
             }
+
+        }
+        public static void MenuCalculadora()
+        {
+            bool continuar = true;
+           
+            while (continuar)
+            {
+                Console.Clear();
+                Console.WriteLine("Digite a opção desejada: ");
+                Console.WriteLine("1 - Somar ; 2 - Subtração ; 3 - Divisão ; 4 - Multiplicação ; 5 - Media");
+                OpcoesMenu opcao = (OpcoesMenu)int.Parse(Console.ReadLine());
+                Console.Clear();
+                Console.WriteLine($"Você escolheu a opçao: {opcao.ToString()}");
+                Console.WriteLine("----------------------------------------------------------------");
+                Console.WriteLine("Digite o primeiro numero: ");
+                float N1 = float.Parse(Console.ReadLine());
+                Console.WriteLine("Digite o segundo numero: ");
+                float N2 = float.Parse(Console.ReadLine());
+                var resultado = Calcula(opcao, N1, N2);
+                Console.Clear();
+                Console.WriteLine($"A operaçao escolhida foi {opcao} e o resultado é {resultado}");
+                Console.WriteLine("----------------------------------------------------------------");
+                Console.WriteLine("1 - Continuar ; 2 - Sair");
+                continuar = int.Parse(Console.ReadLine()) == 1 ?  true : false;                
+            }
+           
         }
         public static void MenuTemperatura()
             {
